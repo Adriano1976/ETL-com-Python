@@ -18,4 +18,14 @@ Através do uso de bibliotecas como pandas, numpy e re, o projeto realiza as seg
 
 O projeto fornece uma visão geral do processo de ETL e como ele pode ser realizado usando a linguagem de programação Python. Isso pode ajudar outros desenvolvedores a entenderem como realizar a limpeza e tratamento de dados em seus próprios projetos.
 
+<hr>
+
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ETL-com-Python}/count.svg" /></p> 
+<br>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
+
 Lembrando que o projeto em questão é apenas um exemplo e pode ser adaptado de acordo com as necessidades específicas de cada projeto.
